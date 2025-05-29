@@ -28,7 +28,7 @@ Este paquete incluye ejemplos de cómo enviar y recibir tipos de datos primitivo
 Este paquete se centra en la comunicación bidireccional entre cliente y servidor UDP, donde el cliente solicita información de un producto y el servidor responde con los detalles.
 
 * [`Producto.java`](https://github.com/MateoCarballo/Preparacion_PSP_3/blob/main/Ejercicio_UDP_Productos/Producto.java): Clase que representa un producto con ID, precio y cantidad. Incluye métodos para generar listas de productos de prueba.
-* [`ClienteProducto.java`](https://github.Bcom/MateoCarballo/Preparacion_PSP_3/blob/main/Ejercicio_UDP_Productos/ClienteProducto.java): Cliente UDP que solicita información de un producto por ID al servidor y recibe su precio total.
+* [`ClienteProducto.java`](https://github.com/MateoCarballo/Preparacion_PSP_3/blob/main/Ejercicio_UDP_Productos/ClienteProducto.java): Cliente UDP que solicita información de un producto por ID al servidor y recibe su precio total.
 * [`ServidorProducto.java`](https://github.com/MateoCarballo/Preparacion_PSP_3/blob/main/Ejercicio_UDP_Productos/ServidorProducto.java): Servidor UDP que gestiona un inventario de productos, recibe solicitudes por ID y responde con el precio total.
 
 ### 📦 [Ejercicio_UDP_Strings](https://github.com/MateoCarballo/Preparacion_PSP_3/tree/main/Ejercicio_UDP_Strings)
