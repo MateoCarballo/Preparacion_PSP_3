@@ -12,7 +12,7 @@ A continuación, se presenta un índice de los ejercicios organizados por paquet
 
 Este paquete contiene clases que demuestran la serialización y deserialización de objetos `Coche` para su envío a través de sockets UDP.
 
-* [`Coche.java`](https://github.com/MateoCarballo/Preparacion_PSP_3/blob/main/Ejercicio_UDP_Coches/Coche.java): Clase que representa un coche, incluyendo métodos de serialización (`Serializable`) y un `toString()` vistoso para su representación.
+* [`Coche.java`](https://github.com/MateoCarballo/Preparacion_PSP_3/main/Ejercicio_UDP_Coches/Coche.java): Clase que representa un coche, incluyendo métodos de serialización (`Serializable`) y un `toString()` vistoso para su representación.
 * [`Cliente.java`](https://github.com/MateoCarballo/Preparacion_PSP_3/blob/main/Ejercicio_UDP_Coches/Cliente.java): Implementa un cliente UDP que serializa y envía objetos `Coche` al servidor.
 * [`Server.java`](https://github.com/MateoCarballo/Preparacion_PSP_3/blob/main/Ejercicio_UDP_Coches/Server.java): Implementa un servidor UDP que recibe y deserializa objetos `Coche` enviados por el cliente.
 
